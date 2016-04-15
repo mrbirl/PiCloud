@@ -21,9 +21,8 @@ To run:
 
 Enjoy!
 
-Note: this is still in early stage development - nothing catastrophic should happen, but nonetheless use at your own risk :)
+Note: This was an early prototype and hasn't been updated in years - nothing catastrophic should happen, but nonetheless use at your own risk :)
 
-For more info see http://brassil.net/category/fyp/
-Contact me at http://brassil.net/contact-me/
+There are now better ways to interact with the Dropbox and Drive APIs than what is done here, but this was what was available to me at the time.
 
 All feedback welcome!
